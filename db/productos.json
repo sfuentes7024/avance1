@@ -1,0 +1,21 @@
+[{
+    "nombre": "asd",
+    "descripcion": "asddasd",
+    "codigo": "333",
+    "url": "http//link55",
+    "precio": 333,
+    "stock": 2,
+    "timeStamp": "17-8-2022 19:21:33",
+    "id": 1
+},
+{
+    "nombre": "aseded",
+    "descripcion": "asdededasd",
+    "codigo": "222",
+    "url": "http//link55",
+    "precio": 444,
+    "stock": 3,
+    "timeStamp": "17-8-2022 19:22:40",
+    "id": 2
+
+}]

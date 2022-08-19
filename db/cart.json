@@ -1,0 +1,13 @@
+[{
+    "id":1,
+    "productos": [{
+        "nombre": "testName",
+        "descripcion": "negro",
+        "codigo": "345",
+        "url": "http://link55",
+        "precio": 154,
+        "stock": 2,
+        "timeStamp": "17-8-2022 19:21:33",
+        "id": 1
+    }]
+}]
